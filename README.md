@@ -18,9 +18,9 @@ git clone https://github.com/nanamod96/AKMODPUBG.git
 cd AKMODPUBG
 ```
 ```
-chmod +x setup
+chmod +x setup nanamod96
 ```
 ```
-bash setup
+./setup
 ```
 ## Note: Next time when entering the tool, type "obb" the tool will start automatically.
